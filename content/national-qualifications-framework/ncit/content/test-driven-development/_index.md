@@ -98,7 +98,7 @@ The term arithmetic underflow (or "floating point underflow", or just "underflow
 
 When you are converting one type of data to another, errors can often occur. For example, you may find there are errors when you convert a CSV file to an Excel file (or XML to Word). There is no shortage of issues when you are trying to share files between programs or convert a file type from one program to another.
 
-1. Detecting errors through testing
+## 2. Detecting errors through testing
 
 Now that you’ve seen the types of errors you will deal with as you develop programs, let’s take a look at how we can find these errors and fix them. And most importantly, let’s find a method to minimise the number of errors we make in the first place.
 
